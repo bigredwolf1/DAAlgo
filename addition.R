@@ -2,3 +2,4 @@
   y = 2
   z=x+y
   w=z+y
+  v=w+z
